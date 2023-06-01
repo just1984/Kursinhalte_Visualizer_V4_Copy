@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Batch-8.iml" filepath="$PROJECT_DIR$/Batch-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-1/Tag-1/Tag-1.iml" filepath="$PROJECT_DIR$/Woche-1/Tag-1/Tag-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-3/Tag-11/Tag-11.iml" filepath="$PROJECT_DIR$/Woche-3/Tag-11/Tag-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-3/Tag-12/Tag-12.iml" filepath="$PROJECT_DIR$/Woche-3/Tag-12/Tag-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-3/Tag-13/Tag-13.iml" filepath="$PROJECT_DIR$/Woche-3/Tag-13/Tag-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-4/Tag-16/Tag-16.iml" filepath="$PROJECT_DIR$/Woche-4/Tag-16/Tag-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-4/Tag-17/Tag-17.iml" filepath="$PROJECT_DIR$/Woche-4/Tag-17/Tag-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-4/Tag-18/Tag-18.iml" filepath="$PROJECT_DIR$/Woche-4/Tag-18/Tag-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-4/Tag-19/Tag-19.iml" filepath="$PROJECT_DIR$/Woche-4/Tag-19/Tag-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-1/Tag-2/Tag-2.iml" filepath="$PROJECT_DIR$/Woche-1/Tag-2/Tag-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-5/Tag-21/Tag-21.iml" filepath="$PROJECT_DIR$/Woche-5/Tag-21/Tag-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-5/Tag-22/Tag-22.iml" filepath="$PROJECT_DIR$/Woche-5/Tag-22/Tag-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-1/Tag-3/Tag-3.iml" filepath="$PROJECT_DIR$/Woche-1/Tag-3/Tag-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-1/Tag-4/Tag-4.iml" filepath="$PROJECT_DIR$/Woche-1/Tag-4/Tag-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-2/Tag-6/Tag-6.iml" filepath="$PROJECT_DIR$/Woche-2/Tag-6/Tag-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-2/Tag-7/Tag-7.iml" filepath="$PROJECT_DIR$/Woche-2/Tag-7/Tag-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-2/Tag-8/Tag-8.iml" filepath="$PROJECT_DIR$/Woche-2/Tag-8/Tag-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-2/Tag-9/Tag-9.iml" filepath="$PROJECT_DIR$/Woche-2/Tag-9/Tag-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-1/Woche-1.iml" filepath="$PROJECT_DIR$/Woche-1/Woche-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-2/Woche-2.iml" filepath="$PROJECT_DIR$/Woche-2/Woche-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-3/Woche-3.iml" filepath="$PROJECT_DIR$/Woche-3/Woche-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-4/Woche-4.iml" filepath="$PROJECT_DIR$/Woche-4/Woche-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche-5/Woche-5.iml" filepath="$PROJECT_DIR$/Woche-5/Woche-5.iml" />
+    </modules>
+  </component>
+</project>
