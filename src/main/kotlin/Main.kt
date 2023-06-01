@@ -4,10 +4,11 @@ import java.util.Scanner
 fun main() {
     println("")
     println("")
+    println("")
     println("\n--------------------------------------------------\n")
     println("Willkommen zum Projekt M2-VISUALIZRRR_V1.")
     println("Druecke ENTER fuer eine Liste der Vorlesungscodes aus dem Kurs 'Grundlagen der Programmierung'.")
-    readLine()
+    readln()
 
     val basePath = "src\\INHALTE\\"
     val filesList = mutableListOf<File>()
